@@ -1,0 +1,39 @@
+.background {
+  background-image: url(2.jpg);
+  height: 50vh;
+  width: 100vw;
+}
+
+.hero {
+  background-image: url(2.jpg);
+  background-position: center;
+  background-size: cover;
+  filter: brightness(100%);
+}
+
+ul li a {
+  margin-right: 3rem;
+  font-weight: 500;
+  font-family: roboto, sans-serif;
+}
+
+.services-img {
+  border-radius: 50%;
+}
+
+.card {
+  width: 28%;
+}
+
+.check {
+  height: 52vh;
+  margin-top: 1rem;
+}
+
+.heading {
+  text-shadow: 1px 1px black;
+}
+
+.para-shadow {
+  /* text-shadow: 1px 1px black; */
+}
